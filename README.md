@@ -102,3 +102,6 @@ amount - kwota pożyczki,
 duration - czas trwania pożyczki,
 payments - miesięczna kwota płatności,
 status - status spłaty pożyczki.
+
+The project is carried out as part of the specialized Data Lab course from CodersLab
+
